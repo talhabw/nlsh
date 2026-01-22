@@ -10,7 +10,7 @@ Requirements: macOS or Linux.
 curl -fsSL https://raw.githubusercontent.com/talhabw/nlsh/main/install.sh | bash
 ```
 
-This installs the latest nightly build to `~/.local/bin` and ensures that path is on your shell.
+This installs the latest release to `~/.local/bin` and ensures that path is on your shell.
 
 Build from source:
 
